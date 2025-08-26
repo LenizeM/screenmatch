@@ -22,7 +22,7 @@ A aplicação simula um serviço de streaming com portfólio de filmes e séries
 - Consolidação dos fundamentos de Programação Orientada a Objetos (POO)
 
 🚀 Tecnologias
-- Java 17+
+- Java 24
 - IntelliJ IDEA
 - API OMDb (Open Movie Database)
 - Biblioteca GSON
